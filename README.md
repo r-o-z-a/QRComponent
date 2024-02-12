@@ -10,7 +10,7 @@ A React component for displaying QR codes, created for the Frontend Mentor's cha
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-code-component.git
+git clone https://github.com/r-o-z-a/QRComponent.git
 cd qr-code-component
 ```
 
