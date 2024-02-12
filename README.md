@@ -1,6 +1,3 @@
-Certainly! Here's a simple README template for your QR code component project:
-
-
 # QR Code Component
 
 A React component for displaying QR codes, created for the Frontend Mentor's challenge. Built with React and styled using Tailwind CSS.
@@ -11,7 +8,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/r-o-z-a/QRComponent.git
-cd qr-code-component
+cd QRComponent
 ```
 
 Install dependencies:
@@ -40,4 +37,3 @@ This will launch the application, and you can view the QR code component in acti
 If you'd like to contribute to the project, feel free to open a pull request.
 
 
-Remember to replace placeholders like `your-username` and `qr-code-component` with the actual information relevant to your project. If you have a specific license, replace the link and details in the License section. If you used a specific QR code library, make sure to mention it in the Technologies Used section.
