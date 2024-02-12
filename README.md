@@ -1,6 +1,6 @@
 Certainly! Here's a simple README template for your QR code component project:
 
-```markdown
+
 # QR Code Component
 
 A React component for displaying QR codes, created for the Frontend Mentor's challenge. Built with React and styled using Tailwind CSS.
